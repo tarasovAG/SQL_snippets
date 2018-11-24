@@ -1,2 +1,2 @@
 # SQL_snippets
-Useful SQL Queries snippets
+This project contains useful MS SQL queries
